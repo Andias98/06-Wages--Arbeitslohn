@@ -1,2 +1,13 @@
-# Wages--Arbeitslohn-06
-Konsole liest Namen, Anzahl der gearbeiteten Stunden und Stundenlohn ein. 
+# Arbeitslohn
+## Lehrziele
+ - Verwendung von int und double
+ - Konsolenausgabe
+# Aufgabenstellung
+Lesen Sie von der Konsole den Namen eines Arbeiters, die Anzahl der gearbeiteten Stunden sowie den Stundenlohn ein. Geben Sie im Anschluss den gesamten Verdienst aus. Zum Beispiel: „Susi hat in 5 Stunden 100 EUR verdient“ aus.
+
+### Eingabe:
+    - Name des Arbeiters
+    - Anzahl der Arbeitsstunden
+    - Lohn pro Stunde
+### Ausgabe:
+    - <name> hat in <Arbeitsstunden> Stunden <Stundenlohn * Arbeitsstunden> EUR verdient.
